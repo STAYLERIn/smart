@@ -103,7 +103,7 @@
                 resultDiv.classList.add("negative");
 
                 // Play alternative music for others
-                musicPlayer.src = "https://www.youtube.com/embed/wEWF2xh5E8s?autoplay=1";
+                musicPlayer.src = "https://www.youtube.com/embed/OPhefKpgTRk?autoplay=1";
             }
         }
     </script>
