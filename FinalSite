@@ -77,7 +77,7 @@
         <input type="text" id="nameInput" placeholder="Digite o nome aqui..." />
         <button onclick="calculate()">Calcular Compatibilidade</button>
         <div id="result" class="result"></div>
-        <iframe id="musicPlayer" src="" allow="autoplay"></iframe>
+        <iframe id="musicPlayer" src="" allow="autoplay; encrypted-media"></iframe>
     </div>
 
     <script>
